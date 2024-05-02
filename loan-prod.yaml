@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loanservice:
+  message: "Loan Microservice of Demo Bank - Prod"
+  contact:
+    name: "Name Surname- Product Owner"
+    email: "demo@example.com"
+  onCallSupport:
+    - (000) 111-1111
+    - (111) 222-2222

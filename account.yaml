@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accountservice:
+  message: "Account Microservice of Demo Bank - Dev"
+  contact:
+    name: "Name Surname- Backend Developer"
+    email: "demo@example.com"
+  onCallSupport:
+      - (000) 111-1111
+      - (111) 222-2222

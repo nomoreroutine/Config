@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cardservice:
+  message: "Card Microservice of Demo Bank - QA"
+  contact:
+    name: "Name Surname - QA Lead"
+    email: "demo@example.com"
+  onCallSupport:
+    - (000) 111-1111
+    - (111) 222-2222
