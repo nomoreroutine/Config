@@ -5,7 +5,7 @@ accountservice:
   message: "Account Microservice of Demo Bank - Prod"
   contact:
     name: "Name Surname - Product Owner"
-    email: "demo@example.com"
+    email: "{cipher}da422e5e75092dc199db025e027e901b1bace06e24e7ba341fb2339f99fb6645d84bc321919f4211be5af8710faf4068"
   onCallSupport:
     - (000) 111-1111
     - (111) 222-2222
