@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loanservice:
-  message: "Loan Microservice of Demo Bank - Prod"
+  message: "Loan Microservice of Demo Bank - Production"
   contact:
     name: "Name Surname- Product Owner"
     email: "demo@example.com"
