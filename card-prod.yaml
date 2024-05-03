@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cardservice:
-  message: "Card Microservice of Demo Bank - Prod"
+  message: "Card Microservice of Demo Bank - Production"
   contact:
     name: "Name Surname - Product Owner"
     email: "demo@example.com"
