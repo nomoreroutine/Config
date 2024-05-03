@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accountservice:
-  message: "Account Microservice of Demo Bank - Prod"
+  message: "Account Microservice of Demo Bank - Production"
   contact:
     name: "Name Surname - Product Owner"
     email: "{cipher}da422e5e75092dc199db025e027e901b1bace06e24e7ba341fb2339f99fb6645d84bc321919f4211be5af8710faf4068"
